@@ -4,4 +4,4 @@ Mystic Mix és un videojoc de realitat virtual ambientat en un petit i acollidor
 La nostra aplicació pertany al sector de l’entreteniment, oferint una experiència relaxant i educativa sobre el tarot. .
 
 ## Table of Contents
-- [Notion](#installation)
+- [Conceptualització](#https://www.canva.com/design/DAG4-kjBjvQ/WuUrrF0YJHIoaWd75v-E8w/edit?utm_content=DAG4-kjBjvQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
